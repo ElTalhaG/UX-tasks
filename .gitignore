@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+# IDE
+.idea/
+*.iml
+# Gradle and Android build files
+.gradle/
+**/.gradle/
+**/build/
+.kotlin/
+**/.kotlin/
+local.properties
+**/local.properties
+# Installer and build outputs
+*.dmg
+*.apk
+*.aab
+/.git-metadata-backup/
